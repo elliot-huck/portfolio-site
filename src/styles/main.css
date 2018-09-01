@@ -16,10 +16,9 @@
   width: 100vw;
 }
 
-/* #main #page section:nth-child(2) {
-	background-color: #2c2f38;
-
-} */
+#main #page section:nth-child(even) {
+  background-color: #2c2f38;
+}
 
 #main .section--header {
   font-family: "Space Mono", monospace;
@@ -50,4 +49,22 @@
 
 #main .section--text span {
   font-style: italic;
+}
+
+#main #technologies svg {
+  display: block;
+  margin: auto;
+}
+
+.technologies--container {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+#main #technologies .icon {
+  text-align: center;
+  padding: .5em;
+  margin: 2em;
 }
