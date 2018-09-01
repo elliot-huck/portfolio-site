@@ -5,10 +5,10 @@
 #main * {
   box-sizing: border-box;
   font-family: "Ubuntu", sans-serif;
-	text-transform: none;
-	color: #EFF;
-	font-weight: 300;
-	letter-spacing: .03em;
+  text-transform: none;
+  color: #EFF;
+  font-weight: 300;
+  letter-spacing: .03em;
 }
 
 #main #page {
@@ -30,7 +30,7 @@
 }
 
 #main #page div {
-	padding: 1em 5em;
+  padding: 1em 5em;
 }
 
 #main .section--subheader p:first-child {
@@ -45,9 +45,9 @@
 }
 
 #main .section--text {
-	text-align: justify;
+  text-align: justify;
 }
 
 #main .section--text span {
-	font-style: italic;
+  font-style: italic;
 }
