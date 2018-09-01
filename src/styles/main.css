@@ -1,0 +1,12 @@
+@import url("./normalize.css");
+@import url('https://fonts.googleapis.com/css?family=Space+Mono:400,700|Ubuntu:300,300i,400');
+
+* {
+	box-sizing: border-box;
+}
+
+.section--header {
+	font-family: "Space Mono", monospace;
+	text-transform: uppercase;
+	text-align: center;
+}
