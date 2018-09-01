@@ -13,12 +13,10 @@
 	background-color: #282B34;
 }
 
-#main #page section:nth-child(2) {
+/* #main #page section:nth-child(2) {
 	background-color: #2c2f38;
 
-}
-
-/* #2C2F38 */
+} */
 
 #main .section--header {
 	font-family: "Space Mono", monospace;
